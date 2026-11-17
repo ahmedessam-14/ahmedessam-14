@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedessam-14
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in AI / Data Analyst 
+- 🌱 I’m currently Data Analyst 
 - 📫 How to reach me ahmedessam142002@gmail.com
 
 
